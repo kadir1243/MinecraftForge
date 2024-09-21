@@ -84,7 +84,7 @@
       "clientreq":true
     },
     {
-      "name": "org.scala-lang:scala-parser-combinators_2.11:1.0.1",
+      "name": "org.scala-lang.modules:scala-parser-combinators_2.11:1.0.1",
       "url" : "http://files.minecraftforge.net/maven/",
       "checksums" : [ "f05d7345bf5a58924f2837c6c1f4d73a938e1ff0", "a1cbbcbde1dcc614f4253ed1aa0b320bc78d8f1d" ],
       "serverreq":true,
@@ -98,14 +98,14 @@
       "clientreq":true
     },
     {
-      "name": "org.scala-lang:scala-swing_2.11:1.0.1",
+      "name": "org.scala-lang.modules:scala-swing_2.11:1.0.1",
       "url" : "http://files.minecraftforge.net/maven/",
       "checksums" : [ "b1cdd92bd47b1e1837139c1c53020e86bb9112ae", "d77152691dcf5bbdb00529af37aa7d3d887b3e63" ],
       "serverreq":true,
       "clientreq":true
     },
     {
-      "name": "org.scala-lang:scala-xml_2.11:1.0.2",
+      "name": "org.scala-lang.modules:scala-xml_2.11:1.0.2",
       "url" : "http://files.minecraftforge.net/maven/",
       "checksums" : [ "7a80ec00aec122fba7cd4e0d4cdd87ff7e4cb6d0", "62736b01689d56b6d09a0164b7ef9da2b0b9633d" ],
       "serverreq":true,
